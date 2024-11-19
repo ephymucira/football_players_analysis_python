@@ -1,0 +1,7 @@
+footenv/
+training/
+models/
+*.pt
+*.pyc
+*avi
+*
